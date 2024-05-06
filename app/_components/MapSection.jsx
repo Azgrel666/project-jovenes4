@@ -256,7 +256,7 @@ const MapSection = () => {
     <div className="flex flex-col md:flex-row h-[800px]">
       {/* --------------DIV INFO LUGAR------------------- */}
       <div
-        className={`bg-gray-200 bg-opacity-30 p-2 absolute z-10 transition-all ease-in-out duration-500 rounded-xl h-max w-[400px] ${
+        className={`bg-gray-200 bg-opacity-30 p-2 absolute z-10 transition-all ease-in-out duration-500 rounded-xl h-max w-[300px] md:w-[400px] ${
           selectedMarker ? "left-0" : "-left-full"
         }`}
       >

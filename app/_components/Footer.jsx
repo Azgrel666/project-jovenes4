@@ -10,29 +10,29 @@ const Footer = () => {
     <footer className="bg-secondary p-6 text-white">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between mb-8">
-          <div className="flex items-center gap-5 mb-4 md:mb-0">
-            <Image
-              src="/footer/logo-externado.png"
-              alt="Logo 1"
-              width={130}
-              height={130}
-              className="mr-4"
-            />
-            <Image
-              src="/footer/goglab.png"
-              alt="Logo 3"
-              width={100}
-              height={100}
-            />
-            <Image
-              src="/footer/jovenes.png"
-              alt="Logo 2"
-              width={100}
-              height={100}
-              className="mr-4"
-            />
-            
-          </div>
+        <div className="flex items-center justify-center gap-5 md:gap-5 mb-4 md:mb-0">
+  <Image
+    src="/footer/logo-externado.png"
+    alt="Logo 1"
+    width={100}
+    height={100}
+    className="w-auto h-auto"
+  />
+  <Image
+    src="/footer/goglab.png"
+    alt="Logo 3"
+    width={85}
+    height={85}
+    className="w-20 h-20 md:w-auto md:h-auto"
+  />
+  <Image
+    src="/footer/jovenes.png"
+    alt="Logo 2"
+    width={85}
+    height={85}
+    className="w-20 h-20 md:w-auto md:h-auto"
+  />
+</div>
           <div>
             <h3 className="text-2xl font-bold mb-2">Mapa Interactivo de Cartagena</h3>
             <Link href="/about" className="inline-flex items-center text-gray-300 hover:text-white transition-colors duration-200">
