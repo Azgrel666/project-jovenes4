@@ -340,10 +340,10 @@ export const Patrimonio = [
       subcategory: 'Tradición Oral y Danzas',
       name: 'El Garabato',
       line: '',
-      description: '\'Los inicios de esta danza se remontan a Cartagena de Indias, ciudad donde su raza estuvo sometida a la opresión y como resultado se produjeron ricos aportes culturales, ya que el negro expresaba su sentir por medio de movimientos corporales fuertes al ritmo de tambores. Es justo el momento histórico donde se considera el origen de la Danza del Garabato, primeramente, denominada Danza de la Vida y la Muerte, interpretándose con tendencias negras, eufóricas y sensuales, en donde estos dos hechos cotidianos se enfrentan, triunfando la muerte\' (TRANSFORMACIÓN DE LA DANZA DEL GARABATO DE LOS CABILDOS AL CARNAVAL DE BARRANQUILLA\n)',
+      description: 'En el contexto de la opresión vivida en Cartagena de Indias, surge la Danza del Garabato, inicialmente conocida como Danza de la Vida y la Muerte. Esta expresión cultural, proveniente del pueblo afrodescendiente, se caracteriza por movimientos corporales al son de los tambores, con los que la persona negra (afrodescendiente) expresaba sus sentimientos. En ella se representa la lucha entre la vida y la muerte en donde, después del enfrentamiento, triunfa la muerte (Orozco et al., s.f.). Esta danza mágica y trágica es famosa en Bocachica.',
       images: ['/assets/El Garabato.jpg'],
-      latitude: 10.209169580715193, 
-      longitude: -75.16592048702243,
+      latitude: 10.3256922, 
+      longitude: -75.5787999,
       ref: ''
     },
     {
@@ -386,8 +386,8 @@ export const Patrimonio = [
       description: '“Yo tengo una pava hinchada con huevos de codorniz. Si la pava no me quiere, si la pava no me quiere, cojo el camino y me voy", cantan en coro, mientras se hace una danza erótica entre bailarines y bailarinas” (Salazar, 2007). La danza del pavo con la pava, tradicional de la tierra de San Basilio de Palenque, es uno de los bailes característicos de los ritos fúnebres, se basa en un juego de ronda realizado en los novenarios.',
       line: '',
       images: ['/assets/El pavo con la pava.jpg'],
-      latitude: 10.209169580715193, 
-      longitude: -75.16592048702243,
+      latitude: 10.10363765529243, 
+      longitude: -75.1990892711642,
       ref: ''
      },
      {
@@ -406,11 +406,11 @@ export const Patrimonio = [
       category: 'Patrimonio Inmaterial',
       subcategory: 'Festivales',
       name: 'Festival del frito',
-      description: ': El festival del frito Cartagenero es una celebración gastronómica anual en el marco de las Fiestas de la Virgen de la Candelaria. Este festival lleva una tradición de mas de 35 años, el evento destaca las tradiciones culinarias afrocolombianas y ha promovido la herencia cultural y el papel de las mujeres en la preservación de los saberes ancestrales y las tradiciones de generación en generación (Theram, 2024). El festival del frito es la memoria de la interculturalidad y el desarrollo de una región de la mano con la comida. En 2024, el festival fue total éxito, con ventas que superaron los $700 millones y más de 105 mil arepas de huevo consumidas durante los 10 días del evento. Chambacú fue la sede, atrayendo a 120 mil personas diarias, la mayor asistencia en la historia del festival (Theram, 2024 según cifras del IPCC, 2024). ',
+      description: 'El festival del frito Cartagenero es una celebración gastronómica anual en el marco de las Fiestas de la Virgen de la Candelaria. Este festival lleva una tradición de mas de 35 años, el evento destaca las tradiciones culinarias afrocolombianas y ha promovido la herencia cultural y el papel de las mujeres en la preservación de los saberes ancestrales y las tradiciones de generación en generación (Theram, 2024). El festival del frito es la memoria de la interculturalidad y el desarrollo de una región de la mano con la comida. En 2024, el festival fue total éxito, con ventas que superaron los $700 millones y más de 105 mil arepas de huevo consumidas durante los 10 días del evento. Chambacú fue la sede, atrayendo a 120 mil personas diarias, la mayor asistencia en la historia del festival (Theram, 2024 según cifras del IPCC, 2024). ',
       line: '',
       images: ['/assets/Festival del pastel Cartagenero.jpg'],
-      latitude: '',
-      longitude: '',
+      latitude: 10.392682467873914,
+      longitude: -75.46141917289185,
       ref: 'Foto tomada de: https:\/\/www.eluniversal.com.co\/cultural\/la-toxica-la-arrebata-y-otros-fritos-innovadores-del-festifrito-2024-NJ9874843'
      },
      {
