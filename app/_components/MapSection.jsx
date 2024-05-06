@@ -217,7 +217,7 @@ const MapSection = () => {
 
       ShowPopup();
     }
-  }, [activeCategory, activeSubCategory, activePlace, map,ShowPopup]);
+  }, [activeCategory, activeSubCategory, activePlace, Patrimonio, map]);
 
   const createMarker = (mapInstance, markerData, color) => {
     const markerElement = new mapboxgl.Marker({ color: color })
@@ -276,11 +276,10 @@ const MapSection = () => {
                 skinNaps: true,
               }}
             >
-              
               <CarouselContent className="w-full">
                 $
                 {selectedMarker.images.map((photo) => (
-                  <CarouselItem key={selectedMarker.name}>
+                  <CarouselItem>
                     <div className="p-1">
                       <Card>
                         <CardContent className="aspect-square flex items-center justify-center  p-3 w-full h-[300px]">
@@ -961,4 +960,4 @@ const MapSection = () => {
     </div>
   );
 };
-export default MapSection;
+export default MapSection

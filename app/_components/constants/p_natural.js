@@ -24,7 +24,7 @@ export const P_natural = [
        {
         category: 'Patrimonio natural',
         subcategory: 'De naturaleza',
-        name: 'Parque temático vivarium del Caribe',
+        name: 'Parque temático Vivarium del Caribe',
         description: 'El parque temático vivarium es un destino ubicado a tan solo unos minutos de Cartagena entre los municipios de bayunca y pontezuela. El parque esta dedicado a la recreación, educación y conservación de la fauna del bosque seco y humedales del caribe colombiano. Los visitantes que llegan al parque tendrán la oportunidad de observar especies de reptiles, peces y anfibios representativos de la identidad regional, a su vez, se encuentran animales exóticos decomisados por las autoridades encargadas por tráfico de fauna (Cartagena, 2020). Entre ellos se encuentran cocodrilos, caimanes, serpientes, tortugas y peces de distintos orígenes hidrográficos. Por otro lado, el parque busca que los turistas se adentren a conocer las historias de las especies, sus cuidados y su importancia en los ecosistemas permitiéndoles interactuar con ellas como puede ser tener contactos con serpientes (Cartagena, 2020)',
         line: '',
         images: [''],
