@@ -10,14 +10,41 @@ const Footer = () => {
     <footer className="bg-secondary p-6 text-white">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between mb-8">
-        <div className="flex items-center justify-center gap-5 md:gap-5 mb-4 md:mb-0">
+        <div className="flex items-center justify-center gap-2">
+        <Image
+    src="/footer/UNAL.png"
+    alt="Logo 2"
+    width={95}
+    height={95}
+    className="md:w-auto md:h-auto"
+  />
+<Image
+    src="/footer/J4.0.png"
+    alt="Logo 1"
+    width={150}
+    height={150}
+    className="md:w-auto md:h-auto"
+  />
+  <Image
+    src="/footer/UNLab y Ecopetrol.png"
+    alt="Logo 1"
+    width={150}
+    height={150}
+    className="md:w-auto md:h-auto"
+  />
+  
+</div>
+
+<div className="flex items-center justify-center gap-5 md:gap-5 mb-4 md:mb-0">
+
   <Image
     src="/footer/logo-externado.png"
     alt="Logo 1"
-    width={100}
-    height={100}
-    className="w-auto h-auto"
+    width={150}
+    height={150}
+    className=""
   />
+
   <Image
     src="/footer/goglab.png"
     alt="Logo 3"
@@ -25,13 +52,7 @@ const Footer = () => {
     height={85}
     className="w-20 h-20 md:w-auto md:h-auto"
   />
-  <Image
-    src="/footer/jovenes.png"
-    alt="Logo 2"
-    width={85}
-    height={85}
-    className="w-20 h-20 md:w-auto md:h-auto"
-  />
+
 </div>
           <div>
             <h3 className="text-2xl font-bold mb-2">Mapa Interactivo de Cartagena</h3>
